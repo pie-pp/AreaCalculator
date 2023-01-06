@@ -1,5 +1,4 @@
-﻿
-namespace FigureArea;
+﻿namespace FigureArea;
 
 public class AreaCalculator
 {
